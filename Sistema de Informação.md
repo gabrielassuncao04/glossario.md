@@ -14,6 +14,14 @@ Exemplo: Sistemas de Planejamento de Recursos Empresariais (ERP)
 
 Sistemas de apoio à decisão (SAD) - Sistema feita para a analise de números e calculo de probabilidade, assim trazendo resultados mais certeiros.
 
+Exemplo: Sistemas de Apoio à Decisão Baseados em Modelos (MDBS)
+
 Sistemas de informação executivas (SIE) - Sistema que contem outros dois sistemas em sua construção (SIG e SAD) , permite o administrar com eficiencia quais informações gostaria de analisar , com uma forte presença de graficos e tabelas, tras comodidade e facilidade para lidar com grande numero de dados.
+
+Exemplo: Qlik Sense
+
+Sistemas de Informação Geográfica (SIG):
+
+Exemplo: Google Earth
 
 

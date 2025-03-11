@@ -20,8 +20,14 @@ Sistemas de informação executivas (SIE) - Sistema que contem outros dois siste
 
 Exemplo: Qlik Sense
 
-Sistemas de Informação Geográfica (SIG):
+Sistemas de Informação Geográfica (SIG): Sistema focado em gelocalização e geoespacial, armazenado caractristicas fisicas e espaciais, facilitando a tomadade de decições de seus usuarios baseado em dados geograficos 
 
 Exemplo: Google Earth
+
+Implementação
+
+Para garantir a total eficiencia e agilidade do sistema na implementação de um sistema de informação se divide em 7 etapas, primordias na otimização desse sistema conforme sua demanda 
+
+Planejamento e análise de requisitos, Projeto do sistema, Desenvolvimento, Testes, Implantação, Manutenção e suporte, Avaliação pós-implementação
 
 

@@ -1,0 +1,34 @@
+#Criptografia
+
+A criptografica é um processo utilizado para proteger informações ou dados utilizando de modelos matematicos para embaralhá-los, assim necessitando de um chave de acesso para decifra-los, numero ou senha tambem criado por um
+algoritmo, os metodos atuais tem um numero tão grande de chaves que um pessoa não autorizada não seria capaz de adivinhar qual delas esta correta.Um dos pincipais exemplos de criptografia simples é a "Cifea de Cesar", o medos é
+um tipo de criptografia de substituição, em que uma letra é substituída por outra letra e um número fixo de posições é usado no alfabeto, assim para decodificar o deve se saber reorganizar as letras, atualmente a criptografia atingiu
+um grau mair de complexidade onde as chaves ja contem centenas de caracteres.
+
+Chave simetrica: Na criptografia simetrica a mesma chave é utilizada para cifrar e decifrar as informações, não é o metodo mias seguro, pois uma vez com a chave interceptada, o usuario tem acesso a toda a comunicação, normalmente mais
+utilizado em grandes volumes de arquivos 
+
+*Exemplos*
+
+AES (Advanced Encryption Standard)
+
+DES (Data Encryption Standard)
+
+Chave assimetrica: Na criptografia assimetrica são utilizadas duas chaves diferentes, uma publica e outra privada, mas ambas são matematicamente relacionadas, assim qualquer usuario conseguiria, criptografar as infomaçoes porem só
+so usuarios autorizados poderiam descriptografar, mais segura que a chave simetrica porem mais lenta, utilizada em assinaturas digitais e processos de autentificação.
+
+*Exemplos*
+
+RSA
+
+ECC (Elliptic Curve Cryptography)
+
+DSA (Digital Signature Algorithm)
+
+#Na pratica
+
+Assinatura Digital: O remetente cria um documento ou mensagem quee deseja assinar digitalmente,a primeira coisa que ele faz é calcular o hash do documento,em seguida, o hash do documento é criptografado com a chave privada do remetente 
+isso cria a assinatura digital. O destinatário tem a chave pública do remetente, o destinatário descriptografa a assinatura digital com a chave pública do remetente, esse processo revela o hash original que foi assinado, se o hash calculado 
+pelo destinatário coincidir com o hash obtido pela descriptografia da assinatura digital, o documento é autêntico e não foi alterado.
+
+
